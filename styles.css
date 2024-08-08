@@ -1,0 +1,10 @@
+body{
+    background-color: azure;
+    color: darksalmon;
+}
+
+h1{
+    display: block;
+    justify-content: center;
+    align-content: center
+}
